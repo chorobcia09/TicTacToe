@@ -1,7 +1,5 @@
 # Tic-Tac-Toe Game with Two Players
 
-## Author
-**Name:** Mateusz Chorab  
 **File Name:** `tictactoe.sh`  
 **Encoding:** UTF-8  
 

@@ -2,9 +2,7 @@
 
 ## Author
 **Name:** Mateusz Chorab  
-**Execution Date:** 04.01.2023  
-**Submission Date:** 04.01.2023  
-**File Name:** `Mateusz_Chorab_project_operating_systems_tic_tac_toe.sh`  
+**File Name:** `tictactoe.sh`  
 **Encoding:** UTF-8  
 
 ---
